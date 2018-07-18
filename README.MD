@@ -1,8 +1,3 @@
-`Masky` Code Challenge
-----
-
-Thank you for your interest in joining the Pluvio team. This coding challenge will test your ability to self learn and build practical applications. All resources on internet are available to you, but you must work independently to complete the assignment.
-
 Instructions
 ----
 1. Create a Flask Command Line Interface application, named `Masky` <http://flask.pocoo.org/docs/1.0/cli/> using python 3
